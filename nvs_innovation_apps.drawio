@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r939p5lcw7S0-f_gpcF7-27" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=1;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="501" y="-300" width="987" height="768" as="geometry" />
+          <mxGeometry x="501" y="-300" width="987" height="784" as="geometry" />
         </mxCell>
         <mxCell id="r939p5lcw7S0-f_gpcF7-8" value="Azure Key Vault" style="image;aspect=fixed;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;textShadow=0;labelBorderColor=none;fontFamily=Verdana;horizontal=1;fillColor=#40189E;shadow=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;whiteSpace=wrap;dashed=1;strokeColor=#B3B3B3;" parent="r939p5lcw7S0-f_gpcF7-27" vertex="1">
           <mxGeometry x="-21" y="-24" width="50" height="50" as="geometry" />
@@ -121,6 +121,9 @@
         </mxCell>
         <mxCell id="1c4CBgfUnh8x3Muybu8b-14" value="External AWS Service Private Endpoint" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="r939p5lcw7S0-f_gpcF7-58">
           <mxGeometry x="660" y="180" width="336" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1c4CBgfUnh8x3Muybu8b-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks_Classic.svg;" vertex="1" parent="r939p5lcw7S0-f_gpcF7-58">
+          <mxGeometry x="120" y="888" width="67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1c4CBgfUnh8x3Muybu8b-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r939p5lcw7S0-f_gpcF7-40" target="1c4CBgfUnh8x3Muybu8b-14">
           <mxGeometry relative="1" as="geometry">
